@@ -4,7 +4,9 @@
 04-02-2021
 
 **Projects**
-1. spchaane QRCode
-2. Andiile-Phelviin QRCode
+1. finding wifi networks
+2. phonenumber tracker
 
-
+**Labs/websitess**
+* jupyter
+* google colaboration
