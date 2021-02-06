@@ -4,9 +4,9 @@
 04-02-2021
 
 **Projects**
-1. finding wifi networks
-2. phonenumber tracker
+1. phonenumber tracker
+2. finind wifi networks 
 
-**Labs/websitess**
+**Labs/Websites**
 * jupyter
 * google colaboration
